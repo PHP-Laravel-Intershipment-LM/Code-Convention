@@ -1,6 +1,4 @@
 # Code Convention
------
-
 
 1) **Coding Convention**: dựa theo chuẩn PSR-2 và PSR-4 (Laravel 6.x)
 
